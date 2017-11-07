@@ -1,0 +1,21 @@
+{
+  "name": "modal",
+  "authors": [
+    "ed <ed.proff@gmail.com>"
+  ],
+  "description": "simple javascript modal window",
+  "main": "modal.min.js",
+  "keywords": [
+    "javascript",
+    "modal"
+  ],
+  "license": "MIT",
+  "homepage": "https://lnked.github.io/modal",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
